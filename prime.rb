@@ -1,2 +1,2 @@
-prime?()
-if () %2
+prime?(number)
+ start 2
